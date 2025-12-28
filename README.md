@@ -1,6 +1,16 @@
 # Marketing-Campaign_Analytics-Excel
 Marketing campaign performance analysis using Excel dashboards and KPIs
 
+# Project Objective
+The objective of this project is to analyze marketing campaign performance across multiple channels, companies, and customer segments to identify high-performing strategies. The analysis focuses on understanding conversion behavior, ROI, engagement levels, seasonal trends, and profitability to support data-driven marketing decisions and campaign optimization.
+
+# Tools Used
+Microsoft Excel
+Data cleaning and preprocessing
+Calculated columns (ROI, conversion rate, profit, engagement level)
+Pivot Tables and Pivot Charts
+Interactive dashboard creation
+
 # Project Files
 - 📊 **Excel Workbook (Raw data, processed data, dashboard):**  
   [Download Excel file](https://docs.google.com/spreadsheets/d/1s5r1R2SLRNXIVJzM4KkUjIoS4G4HR4oi/edit?usp=sharing&ouid=109834496355234014719&rtpof=true&sd=true)

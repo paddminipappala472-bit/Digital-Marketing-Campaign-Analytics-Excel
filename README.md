@@ -14,8 +14,7 @@ The objective of this project is to analyze marketing campaign performance acros
 # Project Files
 - 📊 **Excel Workbook (Raw data, processed data, dashboard):**  
   [Download Excel file](https://docs.google.com/spreadsheets/d/1s5r1R2SLRNXIVJzM4KkUjIoS4G4HR4oi/edit?usp=sharing&ouid=109834496355234014719&rtpof=true&sd=true)
-  <img width="1320" height="863" alt="Marketing_Analytics_Performance" src="https://github.com/user-attachments/assets/7cf3aee5-a188-454d-a06a-e6910ed9756d" />
-
+  <img width="1238" height="658" alt="Screenshot 2026-01-23 002707" src="https://github.com/user-attachments/assets/10f6ecd1-2def-412f-aad8-4c07b8d33374" />
 
 ## 📌 Key KPIs
 - Total Revenue: **$12.5B**

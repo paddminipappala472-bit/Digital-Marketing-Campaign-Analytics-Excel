@@ -1,4 +1,32 @@
-# 📊 Marketing Campaign Performance & ROI Optimization Analysis
+# 📊 Marketing Campaign Performance Analysis
+🔹 Project Overview
+
+This project analyzes marketing campaign performance across multiple channels to evaluate ROI, conversion rates, and overall effectiveness.
+
+🔹 Problem Statement
+
+Businesses invest in various marketing channels but often lack clarity on which channels generate the best returns. This project aims to identify high-performing channels and optimize marketing strategies.
+
+🔹 Dataset
+
+Marketing campaign dataset (Excel-based)
+Note: Dataset not uploaded due to size limitations.
+
+🔹 Tools Used
+Excel
+Power Query
+Data Visualization
+🔹 Workflow
+Cleaned and transformed campaign data using Excel and Power Query
+Calculated ROI and conversion rates
+Analyzed performance across channels
+Built dashboard to visualize insights
+🔹 Key Insights & Business Impact
+Identified high-performing channels such as Email and Website with conversion rates above 8%, indicating strong customer engagement
+Observed ~5% ROI from Influencer and Search channels, enabling comparison of marketing effectiveness
+Analyzed channel-wise performance, highlighting opportunities to optimize marketing budget allocation
+Evaluated campaign performance metrics to support data-driven marketing decisions
+🔹 Dashboard# 📊 Marketing Campaign Performance & ROI Optimization Analysis
 ## 🔗 View Dashboard & Analysis (PPT)
 ## https://app.presentations.ai/view/tl8ouCUIOi
 # Project Objective

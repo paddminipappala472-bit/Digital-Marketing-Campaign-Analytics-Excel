@@ -31,6 +31,3 @@ Identified high-performing channels such as Email and Website with conversion ra
 Observed ~5% ROI from Influencer and Search channels, enabling comparison of marketing effectiveness
 Analyzed channel-wise performance, highlighting opportunities to optimize marketing budget allocation
 Evaluated campaign performance metrics to support data-driven marketing decisions
-
-# Project File
-  <img width="1238" height="658" alt="Screenshot 2026-01-23 002707" src="https://github.com/user-attachments/assets/10f6ecd1-2def-412f-aad8-4c07b8d33374" />

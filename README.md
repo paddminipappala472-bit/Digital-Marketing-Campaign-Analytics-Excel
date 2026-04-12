@@ -30,4 +30,4 @@ Built dashboard to visualize insights
 Identified high-performing channels such as Email and Website with conversion rates above 8%, indicating strong customer engagement.<br>
 Observed ~5% ROI from Influencer and Search channels, enabling comparison of marketing effectiveness.<br>
 Analyzed channel-wise performance, highlighting opportunities to optimize marketing budget allocation.<br>
-Evaluated campaign performance metrics to support data-driven marketing decisions.<br>
+Evaluated campaign performance metrics to support data-driven marketing decisions.

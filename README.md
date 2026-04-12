@@ -9,7 +9,8 @@ This project analyzes marketing campaign performance across multiple channels to
 Businesses invest in various marketing channels but often lack clarity on which channels generate the best returns. This project aims to identify high-performing channels and optimize marketing strategies.
 
 ### 🔹 Dataset
-* Marketing campaign dataset (Excel-based)<br>
+* Dataset used: Digital Marketing Campaign Dataset (Kaggle)<br>
+* This dataset contains information on marketing channels, ROI, conversion rates, and campaign performance metrics used to evaluate effectiveness across different    channels.<br>
 * Note: Dataset not uploaded due to size limitations.
 
 ### 🔹 Tools Used
